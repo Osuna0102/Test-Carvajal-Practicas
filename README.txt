@@ -1,3 +1,6 @@
+Test para practicas en carvajal. 
+app simple que haga uso de API REST con metodos consumibles.
+
 Extraer API REST.rar y Library-app.rar
 Crear una carpeta donde dejar ambas carpetas. 
 Abrir API REST y copiar y pegar los contenidos hacia la carpeta creada
